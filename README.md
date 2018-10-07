@@ -1,6 +1,6 @@
 ![Screenshot](https://i.imgur.com/8iwlWiY.png)
 ## Modernleft theme
-Theme with small modifications for Popcorn Time that moves the window buttons to the left, mainly. Made and tested only on Linux. Should be good on Windows too.
+Small modifications for Popcorn Time that moves the window buttons to the left, mainly. Tested only on 🐧
 
 ## What's different  
  -  Window buttons moved to the left
