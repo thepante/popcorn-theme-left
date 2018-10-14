@@ -1,4 +1,4 @@
-![Screenshot](https://i.imgur.com/8iwlWiY.png)
+![Screenshot](https://i.imgur.com/MTUHtvq.png)
 ## Modernleft theme
 Small modifications for Popcorn Time that moves the window buttons to the left, mainly. Tested only on 🐧
 
@@ -6,7 +6,7 @@ Small modifications for Popcorn Time that moves the window buttons to the left, 
  -  Window buttons moved to the left
  -  Hide `fullscreen` button (I use `ctr+alt+f`)
  -  Dim toolbar, when hover slightly ups opacity
- -  Dimmed right toolbar buttons
+ -  Dimmed right toolbar buttons, title app and window buttons
 
 ## Install it  
 Manually, using mouse:  
